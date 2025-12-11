@@ -1,6 +1,7 @@
 img{
     width: 30vw;
     height: auto;
+    border: black solid 1px;
 }
 body{
     text-align: center;
